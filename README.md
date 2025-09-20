@@ -14,7 +14,7 @@ BIP39-2-PK is a Python script that interactively derives an Ethereum private key
 ## Requirements
 
 - Python 3.6+
-- `bip_utils` library (`pip install bip_utils`)
+- `bip_utils` library
 
 ## Installation
 
